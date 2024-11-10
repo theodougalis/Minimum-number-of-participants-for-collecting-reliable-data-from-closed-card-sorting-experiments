@@ -7,7 +7,7 @@ This is the code developed for [my undergraduate thesis (PDF)](https://ikee.lib.
 This folder contains the following:
 - dataSkroutz.py: All the data gathered from the first closed card sorting experiment in JSON.
 - dataTourismos.py: All the data gathered from the second closed card sorting experiment in JSON.
-    - The data in JSON format was gathered using [this open soruce card sorting tool](https://github.com/indigane/cardsort) hosted on a personal server.
+    - The data in JSON format was gathered using [this open source card sorting tool](https://github.com/indigane/cardsort) hosted on a personal server.
 - JSONtoCSV.py: The script that transforms the data from JSON to a .csv file given the above mentioned as data.
 - skroutz.csv: The .csv file created with the data from the first experiment.
 - tourismos.csv: The .csv file created with the data from the second experiment.
